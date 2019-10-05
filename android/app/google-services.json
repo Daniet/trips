@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "560418365489",
+    "firebase_url": "https://fir-bloc-a5127.firebaseio.com",
+    "project_id": "fir-bloc-a5127",
+    "storage_bucket": "fir-bloc-a5127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560418365489:android:62ae68ac63253e60c33510",
+        "android_client_info": {
+          "package_name": "com.anncode.platzitripsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560418365489-ndqhqktf6m5l0vcf1fr9ter5gl7tgtb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anncode.platzitripsapp",
+            "certificate_hash": "58176aa9ca28d5adf896bc755b913019a82a9b0f"
+          }
+        },
+        {
+          "client_id": "560418365489-abgb6b56t35ao0r8br32gmdrr85k6qs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIKsOhl24QLLmJANfDCPRScIaYILMZiSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560418365489-abgb6b56t35ao0r8br32gmdrr85k6qs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
